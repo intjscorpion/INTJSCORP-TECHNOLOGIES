@@ -127,7 +127,7 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
 
 - 4th Marketing Campaign
 - Release of new games
-- Continue evolving into 2027 and beyonf incorporating new technologies
+- Continue evolving into 2027 and beyond incorporating new technologies
 
   
 
