@@ -115,17 +115,21 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
 - 1st Issue of Comic Book Series
 
 
-**Q4 2025 and beyond**
+**Q4 2025**
 
 - Potential partnerships with Sui ecosystem projects
 - 3rd Marketing Campaign
 - Trilogy Book Series teaser
+- Lineup of upcoming games
 
 
 **Q1 2026 and beyond**
 
 - 4th Marketing Campaign
-- 
+- Release of new games
+- Continue evolving into 2027 and beyonf incorporating new technologies
+
+  
 
 ---
 
