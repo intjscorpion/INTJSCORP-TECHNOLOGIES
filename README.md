@@ -94,7 +94,7 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
 **Q2 2025**
 
 - Launch of official AI influencer accounts + first content drops>✔️
-- Registration to participate in the Sui Overflow Hackathon>✔️
+- Register for the Sui Overflow Hackathon 2025>✔️
 - GitHub release>✔️
 - Official website set up (in stealth-mode development)>✔️
 - Community building across social media platforms>✔️
