@@ -33,8 +33,21 @@ representative of the $INTJSCORP token in conjunction with a multidimensional wo
 
 🌐 Why Sui? (Ecosystem Impact)
 
-INTJSCORP TECHNOLOGIES™ is built to bridge mainstream audiences into Web3 through the power of story, character, and gameplay.
-By combining AI influencers, immersive lore, and gamified drops, this project invites:
+INTJSCORP TECHNOLOGIES™ chose the Sui blockchain because it offers the perfect foundation for a creative, immersive, and AI-integrated universe.
+
+Sui’s speed, scalability, and object-based architecture make it ideal for:
+
+🎮 Game logic and asset management
+
+🎭 NFT storytelling and dynamic content
+
+🤖 AI-powered media and user interactions
+
+⚡ Microtransactions for content access and upgrades
+
+As a creator-focused chain, Sui empowers projects like $INTJSCORP to build beyond static NFTs — enabling real-time experiences, evolving characters, and deeper user immersion.
+
+INTJSCORP TECHNOLOGIES™  doesn’t just use Sui — it helps showcase what’s possible on Sui by blending influencer content, gamified lore, and crypto-native incentives into one evolving metaverse. It is built to bridge mainstream audiences into Web3 through the power of story, character, and gameplay. By combining AI influencers, immersive lore, and gamified drops, this project invites:
 
 🎮 Gamers
 
