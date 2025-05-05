@@ -7,7 +7,7 @@
 ## 🔹 What is INTJSCORP TECHNOLOGIES?
 
 **INTJSCORP TECHNOLOGIES™** is a next-gen entertainment hub and the official home of the **$INTJSCORP (intjscorpion_xa6900)** token launched on Sui designed to attract gamers, story lovers, and social media audiences into the world of crypto — making the Sui blockchain accessible, engaging, and part of everyday entertainment.
-This project fuses **AI-powered influencers and music nfts**, **immersive storytelling**, and **crypto-native media** into a living universe of IP character-led content, world-building sci-fi lore, gaming and VR/AR experiences. Through AI influencers, gaming content and character-driven storytelling, $INTJSCORP will promote
+This project fuses **AI-powered influencers and music nfts**, **immersive storytelling**, and **crypto-native media** into a living universe of IP character-led content, world-building sci-fi lore, gaming and VR/AR experiences. Through AI influencers, gaming content, character-driven storytelling and music, $INTJSCORP will promote
 DECENTRALIZATION and Sui-based tokens and showcase the creative power of the Sui ecosystem.
 
 While the current focus centers on **AI-driven IP characters,music,nfts & social media & music**, **lore-based storytelling via comic book series,Trilogy sci-fi books & animated video content**, as well as **VR/AR-integrated games**, the “Technologies” arm signals a long-term vision for innovation in **crypto gaming**, **immersive AI**, and utilization of **next-gen creative tools/decentralized social media**.
