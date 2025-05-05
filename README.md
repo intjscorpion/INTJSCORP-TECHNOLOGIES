@@ -78,7 +78,7 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
   
 - Trademark/Copywright/IP character protection process initiated>✔️
   
-- First MUSIC NFT Drop>✔️
+- First MUSIC NFT TEST Drop>✔️
 
 - DEXSCREENER BANNER>✔️
 
