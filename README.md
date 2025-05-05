@@ -86,7 +86,7 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
 
 - Game mechanics and game blueprint for first game>✔️
   
-- Initial outreach to potential game developers/marketicollaborators and ongoing research into development costs for future game integrations> ✔️
+- Initial outreach to potential game developers,collaborators,marketing teams and ongoing research into development costs for future game integrations> ✔️
 
 
   
