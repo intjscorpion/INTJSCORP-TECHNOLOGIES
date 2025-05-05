@@ -141,7 +141,7 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
 - 💬 Discord: [Coming Soon]
 - 🧬 Token Info: $INTJSCORP 
                   CA:0xf4924b2096a1b866b1287b5346a424fb898968530fecafe94a9792865fdea8c9::intjscorp::INTJSCORP
-- 🔧 GitHub: Intj Scorpion
+- 🔧 GitHub: IntjScorpion
 
 ---
 
@@ -152,5 +152,5 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
 
 ---
 
-**INTJSCORP TECHNOLOGIES™** is built for thinkers, dreamers and seekers — and the journey has only just begun.
+**INTJSCORP TECHNOLOGIES™** is built for thinkers, dreamers and seekers , the Sui community —  and the journey has only just begun.
 
