@@ -10,7 +10,7 @@
 This project fuses **AI-powered influencers and music nfts**, **immersive storytelling**, and **crypto-native media** into a living universe of IP character-led content, world-building sci-fi lore, gaming and VR/AR experiences. Through AI influencers, gaming content, character-driven storytelling and music, $INTJSCORP will promote
 DECENTRALIZATION and Sui-based tokens and showcase the creative power of the Sui ecosystem.
 
-While the current focus centers on **AI-driven IP characters,music,nfts & social media & music**, **lore-based storytelling via comic book series,Trilogy sci-fi books & animated video content**, as well as **VR/AR-integrated games**, the “Technologies” arm signals a long-term vision for innovation in **crypto gaming**, **immersive AI**, and utilization of **next-gen creative tools/decentralized social media**.
+While the current focus centers on **AI-driven IP characters,music,nfts & social media & music**, **lore-based storytelling via comic book series,Trilogy sci-fi books & animated video content** and **VR/AR-integrated games**, the “Technologies” arm signals a long-term vision for innovation in **crypto gaming**, **immersive AI**, and utilization of **next-gen creative tools/decentralized social media**.
 
 ---
 
@@ -27,8 +27,7 @@ While the current focus centers on **AI-driven IP characters,music,nfts & social
 
 ## 🧠 Who Is INTJSCORPION_xa6900?
 
-The Lore: It is actually a stealth AI-TERMINAL orbiting the earth labeled with the identification number/code> intjscorpion_xa6900, but represented by an AI-powered character,which transmits quantum multidimensional data it receives from the Looking Glass OS (an almost omniscient, benevolent surveillance operating system created by the Sentress Realm to monitor activity from different galaxies and dimensions with the intention of maintaining it's harmony and uplifting other worlds). INTJSCORPION_xa6900 transmits data, messages and video transmissions to the earthly realm, delivered by it's Ai-AVATAR AGENT of the same name. She is the Voice of the mission and 
-representative of the $INTJSCORP token in conjunction with a multidimensional wolf guardian- the flagship crypto product of INTJSCORP Technologies™.
+The Lore: It is actually a stealth AI-unit TERMINAL orbiting the earth labeled with the identification number/code> intjscorpion_xa6900, but represented by an AI-powered character,which transmits quantum multidimensional data it receives from the Looking Glass OS (an almost omniscient, benevolent surveillance operating system created by the Sentress Realm to monitor activity from different galaxies and dimensions with the intention of maintaining it's harmony and uplifting other worlds). INTJSCORPION_xa6900 transmits data, messages and video transmissions to the earthly realm, delivered by it's Ai-AVATAR AGENT of the same name. She is the Voice of the mission and representative of the $INTJSCORP token in conjunction with a multidimensional wolf guardian- and is the flagship crypto product of INTJSCORP Technologies™.
 
 🌐 Why Sui? (Ecosystem Impact)
 
@@ -64,14 +63,15 @@ $INTJSCORP doesn't just exist on Sui — it champions it.
 
 **Q1 2025**
 
-- A mysterious,introverted & "boring", unpopular Youtuber & online persona who goes by the pen name "INTJ SCORPION" (who happens to be a crypto enthusiast and fan of SUI)is contemplating the idea of adding an ai-generated avatar version of herself to her channel and starts playing with creative ai-tools just for fun> early February 2025 ✔️
+- A mysterious,introverted & "boring", unpopular Youtuber & online persona who goes by the pen name "INTJ SCORPION" (and happens to be a crypto enthusiast and fan of SUI)is contemplating the idea of adding an ai-generated avatar version of herself to her channel and starts playing with creative ai-tools just for fun> early February 2025 ✔️
   
-- INTJ SCORPION attempts to create a community of fellow INTJ Myers-Brigg personality types but forgets less than 2% of the world population are INTJ types and being an uber-introvert herself, does not succeed gaining members and followers. She attempts to make it more interesting by creating a simple website for her ai avatar,jokingly mimicking the matrix theme when it occurs to her "why not create an ai memecoin too" INTJs' would be drawn too? She starts coming up with concepts and possible names for the token...but instead comes up with sci-fi & mystical lores INTJs' probably WON'T like> mid-February 2025✔️
+- INTJ SCORPION attempts to create a community of fellow INTJ Myers-Brigg personality types but forgets less than 2% of the world population are INTJ types and being an uber-introvert herself, does not succeed gaining members and followers. She attempts to make it more interesting by creating a simple website for her ai avatar,jokingly mimicking the matrix theme when it occurs to her why not create an ai memecoin too that INTJs' would be drawn too? She starts coming up with concepts and possible names for the token...but instead comes up with sci-fi & mystical lores that have nothing to do with her channel and that other INTJs' probably won't even be interested in > mid-February 2025✔️
   
-- INTJ SCORPION becomes so passionate about the project that she decides to take it to the next level, no longer satisfied with the idea of creating a mere ai-memecoin. She writes up a plan.A BUSINESS PLAN. She wants to put to use her creativity to quietly work behind the scenes to CREATE SOMETHING BIGGER.BOLDER.INTJSCORP TECHNOLOGIES.
+- INTJ SCORPION becomes so passionate about creating something worthwhile that she decides to take it to the next level, no longer satisfied with the idea of creating a mere ai-memecoin. She writes up a new plan instead.A BUSINESS PLAN. She wants to put to use her creativity to quietly work behind the scenes to CREATE SOMETHING BIGGER.BOLDER. INTJSCORP TECHNOLOGIES.
 An entertainment hub that will inspire culture> February 21st, 2025✔️
 
-- INTJ SCORPION begins game writing, designing key characters, lore, music creation and NFTs> February 22nd, 2025✔️
+- INTJ SCORPION begins game writing, designing key characters, lore, music creation, NFTs and even delves into trying a bit 
+ of coding and VR technicals> February 22nd, 2025✔️
 
 - Launch of $INTJSCORP token on SUI> February 28th, 2025 ✔️
   
@@ -83,9 +83,9 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
 
 - VR Sentress Realm™ DEMO concept development in stealth-mode>✔️
 
-- Game mechanics and game blueprint for first game>✔️
+- Game mechanics and game blueprint for first games>✔️
   
-- Initial outreach to potential game developers,collaborators,marketing teams and ongoing research into development costs for future game integrations> ✔️
+- Initial outreach to potential game developers,collaborators, marketing teams and ongoing research into development costs for future game integrations> ✔️
 
 
   
@@ -99,34 +99,34 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
 - Community building across social media platforms>✔️
 - VR concept DEMO RELEASE
 - Lore preview and trailer
-- Official Sui NFT collection
-- Multi-episode animated content
 - Gaming concept video
+- Official Sui NFT collection
+- 1st social media Ai-influencer deployed
+- Community building
 - 1st Marketing Campaign
-- Game DEMO
 - Sample of 1st Issue of Comic Book series
   
   
 **Q3 2025**
-- 2nd Marketing Campaign
-- AI social media influencer goes live
-- Release of first game
+- Game Demo
+- AI social media influencer goes live (livestream)
+- Multi-episode animated content
+- Keep growing community
 - 1st Issue of Comic Book Series
+- 2nd Marketing Campaign
 
 
 **Q4 2025**
-
 - Potential partnerships with Sui ecosystem projects
-- 3rd Marketing Campaign
 - Trilogy Book Series teaser
 - Lineup of upcoming games
+- 3rd Marketing Campaign
 
 
 **Q1 2026 and beyond**
-
-- 4th Marketing Campaign
 - Release of new games
 - Continue evolving into 2027 and beyond incorporating new technologies
+- 4th Marketing Campaign
 
   
 
