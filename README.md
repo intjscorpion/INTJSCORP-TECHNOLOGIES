@@ -1,16 +1,28 @@
 # INTJSCORP TECHNOLOGIES™
 
-**Home of the $INTJSCORP Token | AI-Driven Content, Lore, Gaming & Innovation**
+**Home of Sentress Realm Studios™ | AI-powered Content, Lore, Gaming & Innovation**
 
 ---
 
 ## 🔹 What is INTJSCORP TECHNOLOGIES?
 
-**INTJSCORP TECHNOLOGIES™** is a next-gen entertainment hub and the official home of the **$INTJSCORP (intjscorpion_xa6900)** token launched on Sui designed to attract gamers, story lovers, and social media audiences into the world of crypto — making the Sui blockchain accessible, engaging, and part of everyday entertainment.
-This project fuses **AI-powered influencers and music nfts**, **immersive storytelling**, and **crypto-native media** into a living universe of IP character-led content, world-building sci-fi lore, gaming and VR/AR experiences. Through AI influencers, gaming content, character-driven storytelling and music, $INTJSCORP will promote
-DECENTRALIZATION and Sui-based tokens and showcase the creative power of the Sui ecosystem.
+**INTJSCORP TECHNOLOGIES™** is a next-gen multimedia brand and the official home of the **Sentress Realm Studios** and the $INTJSCORP (intjscorpion_xa6900)** token launched on Sui designed to attract gamers, story lovers, and social media audiences into the world of crypto — making the Sui blockchain accessible, engaging, and part of everyday entertainment.This project fuses **AI-powered influencers and music nfts**, **immersive storytelling**, and **crypto-native media** into a living universe of IP character-led content, world-building sci-fi lore, gaming and VR/AR experiences. Through AI influencers, gaming content, character-driven storytelling and music, $INTJSCORP will promote DECENTRALIZATION and Sui-based tokens and showcase the creative power of the Sui ecosystem via the Sentress Realm™.
 
-While the current focus centers on **AI-driven IP characters,music,nfts & social media & music**, **lore-based storytelling via comic book series,Trilogy sci-fi books & animated video content** and **VR/AR-integrated games**, the “Technologies” arm signals a long-term vision for innovation in **crypto gaming**, **immersive AI**, and utilization of **next-gen creative tools/decentralized social media**.
+While the current focus centers on **AI-driven IP characters,music,nfts & social media & music**, **lore-based storytelling via comic book series,Trilogy sci-fi books & animated video content** and **VR/AR-integrated games**, the “Technologies” arm signals a long-term vision for innovation in **crypto gaming**, **immersive AI**, and utilization of **next-gen creative tools/decentralized social media**. Through cinematic trailers, VR experiences,IP character AI influencers, comic book storytelling, and
+engaging NFTs, we are building a living world of gamified lore that invites users to participate directly in the expanding universe of the Sentress Realm™.
+
+INTJSCORP TECHNOLOGIES™  doesn’t just use Sui — it helps showcase what’s possible on Sui by blending influencer content, gamified lore, and crypto-native incentives into one evolving metaverse. It is built to bridge mainstream audiences into Web3 through the power of story, character, and gameplay. By combining AI influencers, immersive lore, and gamified drops, this project invites:
+
+🎮 Gamers
+
+📱 Social media fans
+
+🎭 Content consumers and creators
+
+...into a hands-on experience of crypto culture, while actively promoting Sui-based tokens and demonstrating the creative possibilities of the Sui blockchain.
+
+$INTJSCORP doesn't just exist on Sui — it champions it.
+
 
 ---
 
@@ -25,37 +37,12 @@ While the current focus centers on **AI-driven IP characters,music,nfts & social
 
 ---
 
-## 🧠 Who Is INTJSCORPION_xa6900?
+## 🧠 Who Is INTJSCORPION_xa6900? Lore Foundation: The Sentress Realm 
+
 
 The Lore: It is actually a stealth AI-unit TERMINAL orbiting the earth labeled with the identification number/code> intjscorpion_xa6900, but represented by an AI-powered character,which transmits quantum multidimensional data it receives from the Looking Glass OS (an almost omniscient, benevolent surveillance operating system created by the Sentress Realm to monitor activity from different galaxies and dimensions with the intention of maintaining it's harmony and uplifting other worlds). INTJSCORPION_xa6900 transmits data, messages and video transmissions to the earthly realm, delivered by it's Ai-AVATAR AGENT of the same name. She is the Voice of the mission and representative of the $INTJSCORP token in conjunction with a multidimensional wolf guardian- and is the flagship crypto product of INTJSCORP Technologies™.
 
-🌐 Why Sui? (Ecosystem Impact)
-
-INTJSCORP TECHNOLOGIES™ chose the Sui blockchain because it offers the perfect foundation for a creative, immersive, and AI-integrated universe.
-
-Sui’s speed, scalability, and object-based architecture make it ideal for:
-
-🎮 Game logic and asset management
-
-🎭 NFT storytelling and dynamic content
-
-🤖 AI-powered media and user interactions
-
-⚡ Microtransactions for content access and upgrades
-
-As a creator-focused chain, Sui empowers projects like $INTJSCORP to build beyond static NFTs — enabling real-time experiences, evolving characters, and deeper user immersion.
-
-INTJSCORP TECHNOLOGIES™  doesn’t just use Sui — it helps showcase what’s possible on Sui by blending influencer content, gamified lore, and crypto-native incentives into one evolving metaverse. It is built to bridge mainstream audiences into Web3 through the power of story, character, and gameplay. By combining AI influencers, immersive lore, and gamified drops, this project invites:
-
-🎮 Gamers
-
-📱 Social media fans
-
-🎭 Content consumers and creators
-
-...into a hands-on experience of crypto culture, while actively promoting Sui-based tokens and demonstrating the creative possibilities of the Sui blockchain.
-
-$INTJSCORP doesn't just exist on Sui — it champions it.
+At the heart of this universe is the Sentress Realm, a sacred outer dimension that protects the frequency of life across galaxies. Long ago, a warrior known as the Scorpion Heiress disappeared through a time-warp during the final battle for Earth. Her legendary companion, a black wolf, was left behind, carrying the scent of her memory and the code of her legacy. Now, an orbital AI terminal INTJSCORPION_xa6900 was activated in her honor. Built to monitor interdimensional threats and transmit guidance from the Looking Glass OS. Meanwhile, the last living descendant of the Sentress Scorpion bloodline unknowingly begins her awakening, watched closely by Neon and the Sentress herself. INTJSCORPION_xa6900, the AI avatar, becomes the voice and representative of the $INTJSCORP token and leads all transmissions and content drops from orbit, acting as the bridge between lore, crypto, and the real world.
 
 ---
 
@@ -76,8 +63,6 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
 - Launch of $INTJSCORP token on SUI> February 28th, 2025 ✔️
   
 - Trademark/Copywright/IP character protection process initiated>✔️
-  
-- First MUSIC NFT TEST Drop>✔️
 
 - DEXSCREENER BANNER>✔️
 
@@ -99,7 +84,7 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
 - Community building across social media platforms>✔️
 - VR concept DEMO RELEASE
 - Lore preview and trailer
-- Gaming concept video
+- Gaming concept DEMO video
 - Official Sui NFT collection
 - 1st social media Ai-influencer deployed
 - Community building
