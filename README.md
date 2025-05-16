@@ -59,7 +59,7 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
 
 - Launch of $INTJSCORP token on SUI> February 28th, 2025 ✔️
   
-- Trademark/Copywright/IP character protection process initiated>✔️
+- Trademark/IP character protection process initiated/IP Authorship & Ownership Statement>✔️
 
 - DEXSCREENER BANNER>✔️
 
