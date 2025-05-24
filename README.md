@@ -155,5 +155,5 @@ https://styly.cc/manual/experience-styly-in-vr/#Steps_to_experience_the_Scene_in
 
 ---
 
-**INTJSCORP TECHNOLOGIES™** is built for thinkers, dreamers and seekers , the Sui community —  and the journey has only just begun.
+**INTJSCORP TECHNOLOGIES™ and it's subdivision, Sentress Realm Studios™ ** is built for thinkers, dreamers and seekers , the Sui community —  and the journey has only just begun.
 
