@@ -117,7 +117,10 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
   
 
 ---
-INSTRUCTIONS FOR VR DEMO:
+INSTRUCTIONS FOR VR DEMO: 
+
+                           VR CHAMBER CODE: Sentress007
+                           
 1.Download the STYLY APP from Google Playstore: https://play.google.com/store/apps/details?id=com.psychicvrlab.stylymr&hl=en&pli=1
 
 2.Create free Styly account and login. 
