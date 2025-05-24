@@ -77,8 +77,8 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
 - Launch of official AI influencer accounts + first content drops>✔️
 - Register for the Sui Overflow Hackathon 2025>✔️
 - GitHub release>✔️
-- Official website set up (in stealth-mode development)>✔️
 - Community building across social media platforms>✔️
+- Integrate ZKLOGIN/Sui wallet onto website
 - VR concept DEMO RELEASE
 - Lore preview and trailer
 - Gaming concept DEMO video
@@ -95,6 +95,7 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
 - AI social media influencer goes live (livestream)
 - More IP ai-characters deployed as social media influencers
 - Multi-episode animated content
+- Upgrade Website
 - Keep growing community
 - Sample of 1st Issue of Comic Book series
 - 2nd Marketing Campaign
