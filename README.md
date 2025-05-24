@@ -127,7 +127,7 @@ and add it to your list and save.
 
 4.Connect to your VR and go to the APP store (APP Lab) .Search for the STYLY app and install.
 
-5.Connect to your VR and open the STYLY app. Go to your list("My List) and click on the saved VR Scene link and enter.
+5.Open the STYLY app. Go to your list("My List) and click on the saved VR Scene link and enter.
 
 To login user other VR headsets go to: 
 https://styly.cc/manual/experience-styly-in-vr/#Steps_to_experience_the_Scene_in_VR
