@@ -86,19 +86,22 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
 - 1st social media Ai-influencer deployed
 - Community building
 - 1st Marketing Campaign
-- Sample of 1st Issue of Comic Book series
+
   
   
 **Q3 2025**
 - Game Demo
+- STEAM Wishlist Page
 - AI social media influencer goes live (livestream)
+- More IP ai-characters deployed as social media influencers
 - Multi-episode animated content
 - Keep growing community
-- 1st Issue of Comic Book Series
+- Sample of 1st Issue of Comic Book series
 - 2nd Marketing Campaign
 
 
 **Q4 2025**
+- 1st Issue of Comic Book Series
 - Potential partnerships with Sui ecosystem projects
 - Trilogy Book Series teaser
 - Lineup of upcoming games
