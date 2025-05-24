@@ -116,10 +116,10 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
 
 ## 🔗 Links
 
-- 🌐 Website: [Coming Soon]
-- 🧠 Twitter: [Coming Soon]
-- 📺 YouTube: [Coming Soon]
-- 💬 Discord: [Coming Soon]
+- 🌐 Website: www.intjscorptechnologies.xyz
+- 🧠 Twitter: https://x.com/i/communities/1909698927122911563
+- 📺 YouTube: https://youtube.com/@suisentresscryptorealm?si=3S2qAJ5DjlAG1Nuc
+- 💬 Discord: IntjScorpion
 - 🧬 Token Info: $INTJSCORP 
                   CA:0xf4924b2096a1b866b1287b5346a424fb898968530fecafe94a9792865fdea8c9::intjscorp::INTJSCORP
 - 🔧 GitHub: IntjScorpion
