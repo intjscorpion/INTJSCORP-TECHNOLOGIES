@@ -116,6 +116,13 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
   
 
 ---
+INSTRUCTIONS FOR VR DEMO:
+1.Download the STYLY APP from Google Playstore: https://play.google.com/store/apps/details?id=com.psychicvrlab.stylymr&hl=en&pli=1
+2.Create free Styly account and login. 
+3.Search for "Sentress Realm Music Chamber" OR go to link> https://gallery.styly.cc/scene/a5f524e3-0038-43a2-b868-3ddec41725a5
+and add it to your list and save.
+4.Connect to your VR and open the STYLY app. Go to your list("My List) and click on the saved VR Scene link and enter.
+
 
 ## 🔗 Links
 
