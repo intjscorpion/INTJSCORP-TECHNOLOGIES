@@ -79,18 +79,18 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
 - GitHub release>✔️
 - Community building across social media platforms>✔️
 - Integrate ZKLOGIN/Sui wallet onto website
-- VR concept DEMO RELEASE
-- Lore preview and trailer
-- Gaming concept DEMO video
-- Official Sui NFT collection
-- 1st social media Ai-influencer deployed
+- VR concept DEMO RELEASE✔️
+- Lore preview and trailer✔️
+- Gaming concept DEMO video✔️
+- Official Sui NFT collection✔️
+- 1st social media Ai-influencer deployed✔️
 - Community building
 - 1st Marketing Campaign
 
   
   
 **Q3 2025**
-- Game Demo
+- 1st Game Prototype Demo
 - STEAM Wishlist Page
 - AI social media influencer goes live (livestream)
 - More IP ai-characters deployed as social media influencers
@@ -102,6 +102,7 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
 
 
 **Q4 2025**
+- 1st Game release
 - 1st Issue of Comic Book Series
 - Potential partnerships with Sui ecosystem projects
 - Trilogy Book Series teaser
