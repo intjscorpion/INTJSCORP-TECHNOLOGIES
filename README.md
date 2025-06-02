@@ -1,12 +1,12 @@
 # INTJSCORP TECHNOLOGIES™
 
-**Home of Sentress Realm Studios™ | AI-powered Entertainment HUB & Innovation**
+**Home of Sentress Realm Studios™ | AI-powered Entertainment HUB**
 
 ---
 
 ## 🔹 What is INTJSCORP TECHNOLOGIES?
 
-**INTJSCORP TECHNOLOGIES™** is a next-gen multimedia brand and the official home of Sentress Realm Studios™ and the $INTJSCORP (intjscorpion_xa6900) token on the Sui blockchain. Designed to attract gamers, lore-lovers, and social media culture into the world of crypto, the project makes Web3 accessible through immersive, lore-driven entertainment. Combining AI-powered influencer content, in-game and music NFTs, gamified storytelling, and VR/AR worldbuilding, Sentress Realm Studios transforms Sui into a living IP universe. Through characters, comics, cinematic trailers, and gamified experiences, the project promotes decentralization while showcasing the creative potential of the Sui ecosystem. While Sentress Realm Studios™ drives the creative content. The “Technologies” arm signals a long-term vision for innovation in **crypto gaming** and utilization of **next-gen creative tools**.
+**INTJSCORP TECHNOLOGIES™** is a next-gen multimedia brand and the official home of Sentress Realm Studios™ and the $INTJSCORP (intjscorpion_xa6900) utility token on the Sui blockchain. Designed to attract gamers, lore-lovers, and social media culture into the world of crypto, the project makes Web3 accessible through immersive, lore-driven entertainment. Combining AI-powered influencer content, in-game and music NFTs, gamified storytelling, and VR/AR worldbuilding, Sentress Realm Studios transforms Sui into a living IP universe. Through characters, comics, cinematic trailers, and gamified experiences, the project promotes decentralization while showcasing the creative potential of the Sui ecosystem. While Sentress Realm Studios™ drives the creative content. The “Technologies” arm signals a long-term vision for innovation in **crypto gaming** and utilization of **next-gen creative tools**.
 
 INTJSCORP TECHNOLOGIES™  doesn’t just use Sui — it helps showcase what’s possible on Sui by blending influencer content, gamified lore, and crypto-native incentives into one evolving metaverse. It is built to bridge mainstream audiences into Web3 through the power of story, character, and gameplay. By combining it's IP character AI influencers, immersive lore, and gamified drops, this project invites:
 
@@ -25,8 +25,7 @@ $INTJSCORP doesn't just exist on Sui — it champions it.
 
 ## 🌐 Current Features
 
-- 🎙️ **AI Influencer Videos/DROPS** – launching on DECENTRALIZED social media platforms,as well as YouTube, 
-      Twitter, Instagram, TikTok, Twitch, Kick (in progress)
+- 🎙️ **AI Influencer Videos/DROPS** – launching on YouTube, Twitter, Instagram, TikTok, Twitch, Kick as well as decentralized social media
 - 📖 **INTJSCORP Lore & Storytelling** – Trilogy Book & comic book series development
 - 🎮 **Game Development** – World-building and interactive gaming blueprints in progress
 - 🎵 **Music NFTs** – Future drops will blend music, lore, and unlockable content
