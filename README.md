@@ -6,9 +6,9 @@
 
 ## 🔹 What is INTJSCORP TECHNOLOGIES?
 
-**INTJSCORP TECHNOLOGIES™** is a next-gen multimedia brand and the official home of Sentress Realm Studios™ and the $INTJSCORP (intjscorpion_xa6900) utility token on the Sui blockchain. Designed to attract gamers, lore-lovers, and social media culture into the world of crypto, the project makes Web3 accessible through immersive, lore-driven entertainment. Combining AI-powered influencer content, in-game and music NFTs, gamified storytelling, and VR/AR worldbuilding, Sentress Realm Studios transforms Sui into a living IP universe. Through characters, comics, cinematic trailers, and gamified experiences, the project promotes decentralization while showcasing the creative potential of the Sui ecosystem. While Sentress Realm Studios™ drives the creative content. The “Technologies” arm signals a long-term vision for innovation in **crypto gaming** and utilization of **next-gen creative tools**.
+**INTJSCORP TECHNOLOGIES™** is a next-gen multimedia brand and the official home of Sentress Realm Studios™ and the $INTJSCORP (intjscorpion_xa6900) utility token on the Sui blockchain. Designed to attract gamers, lore-lovers, and social media culture into the world of crypto, the project makes Web3 accessible through immersive, lore-driven entertainment. Combining AI-powered influencer content, in-game and music NFTs, gamified storytelling, and VR/AR worldbuilding, Sentress Realm Studios transforms Sui into a living IP universe. Through characters, comics, cinematic trailers, and gamified experiences, the project showcases the entertainment potential of the Sui ecosystem. While Sentress Realm Studios™ drives the creative content. The “Technologies” arm signals a long-term vision for innovation in **crypto gaming** and utilization of **next-gen creative tools**.
 
-INTJSCORP TECHNOLOGIES™  doesn’t just use Sui — it helps showcase what’s possible on Sui by blending influencer content, gamified lore, and crypto-native incentives into one evolving metaverse. It is built to bridge mainstream audiences into Web3 through the power of story, character, and gameplay. By combining it's IP character AI influencers, immersive lore, and gamified drops, this project invites:
+Sentress Realm Studios™  doesn’t just use Sui — it helps showcase what’s possible on Sui by blending influencer content, gamified lore, and crypto-native incentives into one evolving metaverse. It is built to bridge mainstream audiences into Web3 through the power of story, character, and gameplay. By combining it's IP character AI influencers, immersive lore, and gamified drops, this project invites:
 
 🎮 Gamers
 
@@ -18,7 +18,7 @@ INTJSCORP TECHNOLOGIES™  doesn’t just use Sui — it helps showcase what’s
 
 ...into a hands-on experience of crypto culture, while actively promoting Sui-based tokens and demonstrating the creative possibilities of the Sui blockchain.
 
-$INTJSCORP doesn't just exist on Sui — it champions it.
+The Sentress Realm doesn't just exist on Sui — it champions it.
 
 
 ---
@@ -26,19 +26,19 @@ $INTJSCORP doesn't just exist on Sui — it champions it.
 ## 🌐 Current Features
 
 - 🎙️ **AI Influencer Videos/DROPS** – launching on YouTube, Twitter, Instagram, TikTok, Twitch, Kick as well as decentralized social media
-- 📖 **INTJSCORP Lore & Storytelling** – Trilogy Book & comic book series development
+- 📖 **Lore & Storytelling** – Trilogy Book & comic book series development
 - 🎮 **Game Development** – World-building and interactive gaming blueprints in progress
 - 🎵 **Music NFTs** – Future drops will blend music, lore, and unlockable content
 - 🌌 **VR + Immersive Realms** – in progress
 
 ---
 
-## 🧠 Who Is INTJSCORPION_xa6900? Lore Foundation: The Sentress Realm 
+## 🧠 Who Is INTJSCORPION_xa6900? The Lore of Sentress Realm
 
 
 The Lore: It is actually a stealth AI-unit TERMINAL orbiting the earth labeled with the identification number/code> intjscorpion_xa6900, but represented by an unknown AI-powered character,which transmits quantum multidimensional data it receives from the Looking Glass OS (an almost omniscient, benevolent surveillance operating system created by the Sentress Realm to monitor activity from different galaxies and dimensions with the intention of maintaining it's harmony and uplifting other worlds). INTJSCORPION_xa6900 transmits data, messages and video transmissions to the earthly realm, delivered by it's Ai-VOICE AVATAR AGENT of the same name. She is the Voice of the mission.
 
-At the heart of this lore universe is the Sentress Realm, a sacred outer dimension that watches over life across galaxies, realms and dimensions. Long ago,one of it's greatest warrior's in the earthly realm ,from the Sentress Scorpions' bloodline, known as Sekara,"the Scorpion Heiress" disappeared through a time-warp during the final battle for the earthly realm. Her legendary companion, a multi-dimensional black wolf, got injured in battle and did not make it through the time warp on time, though he survived, carrying the scent of her memory and legacy. The orbital terminal:INTJSCORPION_xa6900, was activated in her honor, built to monitor interdimensional threats and transmit guidance from the Looking Glass OS. Most importantly, it was originally meant to detect any signals of life from the Scorpion Heiress, a hope that has been lost over hundreds of years. Meanwhile, Sentress and a few of her friends manage to establish contact with the Earth from the Looking Glass, broadcasting to modern social media outlets and connect to the INTJSCORPION_xa6900 terminal for all transmissions and content drops from, acting as the bridge between lore, crypto, and the real crypto world on the Sui blockchain.
+At the heart of this lore universe is the Sentress Realm, a sacred outer dimension that watches over life across galaxies, realms and dimensions. Long ago,one of it's greatest warrior's in the earthly realm ,from the Sentress Scorpions' bloodline, known as Sekara,"the Scorpion Heiress" disappeared through a time-warp during the final battle for the earthly realm. Her legendary companion, a multi-dimensional black wolf, got injured in battle and did not make it through the time warp on time, though he survived, carrying the scent of her memory and legacy. The orbital terminal:INTJSCORPION_xa6900, was activated in her honor, built to monitor interdimensional threats and transmit guidance from the Looking Glass OS. Most importantly, it was originally meant to detect any signals of life from the Scorpion Heiress, a hope that has been lost over hundreds of years. Meanwhile, Sentressthe daughter of the Empress of Sentress Realm and a few of her friends manage to establish contact with the Earth from the Looking Glass, broadcasting to modern social media outlets and connect to the INTJSCORPION_xa6900 terminal for all transmissions and content drops from, acting as the bridge between lore, crypto, and the real crypto world on the Sui blockchain.
 
 ---
 
@@ -77,7 +77,7 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
 - Register for the Sui Overflow Hackathon 2025>✔️
 - GitHub release>✔️
 - Community building across social media platforms>✔️
-- Integrate ZKLOGIN/Sui wallet onto website
+- Integrate Sui wallet onto website✔️
 - VR concept DEMO RELEASE✔️
 - Lore preview and trailer✔️
 - Gaming concept DEMO video✔️
@@ -119,7 +119,7 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
 ---
 INSTRUCTIONS FOR VR DEMO: 
 
-                           VR CHAMBER CODE: Sentress007
+                          
                            
 1.Download the STYLY APP from Google Playstore: https://play.google.com/store/apps/details?id=com.psychicvrlab.stylymr&hl=en&pli=1
 
@@ -155,5 +155,5 @@ https://styly.cc/manual/experience-styly-in-vr/#Steps_to_experience_the_Scene_in
 
 ---
 
-**INTJSCORP TECHNOLOGIES™ and it's subdivision, Sentress Realm Studios™ ** is built for thinkers, dreamers and seekers , and the Sui community — the journey has only just begun.
+**INTJSCORP TECHNOLOGIES™ and it's subdivision, Sentress Realm Studios™ ** is built for thinkers, dreamers, seekers ,for those of us who go undervalued and labeled as "boring" cause we are quiet introverts whose idea of "fun" is NOT partying and getting drunk.... and for the Sui community — the journey has only just begun.
 
