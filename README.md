@@ -117,7 +117,7 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
   
 
 ---
-INSTRUCTIONS FOR VR DEMO: 
+INSTRUCTIONS FOR VR PROTOTYPE DEMO: 
 
                           
                            
