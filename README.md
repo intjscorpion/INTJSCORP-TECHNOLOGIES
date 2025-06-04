@@ -6,9 +6,9 @@
 
 ## 🔹 What is INTJSCORP TECHNOLOGIES?
 
-**INTJSCORP TECHNOLOGIES™** is a next-gen multimedia brand and the official home of Sentress Realm Studios™ and the $INTJSCORP (intjscorpion_xa6900) utility token on the Sui blockchain. Designed to attract gamers, lore-lovers, and social media culture into the world of crypto, the project makes Web3 accessible through immersive, lore-driven entertainment. Combining AI-powered influencer content, in-game and music NFTs, gamified storytelling, and VR/AR worldbuilding, Sentress Realm Studios transforms Sui into a living IP universe. Through characters, comics, cinematic trailers, and gamified experiences, the project showcases the entertainment potential of the Sui ecosystem. While Sentress Realm Studios™ drives the creative content. The “Technologies” arm signals a long-term vision for innovation in **crypto gaming** and utilization of **next-gen creative tools**.
+**INTJSCORP TECHNOLOGIES™** is a next-gen multimedia brand and the official home of ***Sentress Realm Studios™*** and the $INTJSCORP (intjscorpion_xa6900) utility token on the Sui blockchain. Designed to attract gamers, lore-lovers, and social media culture into the world of crypto, the project makes Web3 accessible through immersive, lore-driven entertainment. Combining AI-powered influencer content, in-game and music NFTs, gamified storytelling, and VR/AR worldbuilding, Sentress Realm Studios transforms Sui into a living IP universe. Through characters, comics, cinematic trailers, and gamified experiences, the project showcases the entertainment potential of the Sui ecosystem. While Sentress Realm Studios™ drives the creative content. The “Technologies” arm signals a long-term vision for innovation in **crypto gaming** and utilization of **next-gen creative tools**.
 
-Sentress Realm Studios™  doesn’t just use Sui — it helps showcase what’s possible on Sui by blending influencer content, gamified lore, and crypto-native incentives into one evolving metaverse. It is built to bridge mainstream audiences into Web3 through the power of story, character, and gameplay. By combining it's IP character AI influencers, immersive lore, and gamified drops, this project invites:
+***Sentress Realm Studios™***  doesn’t just use Sui — it helps showcase what’s possible on Sui by blending influencer content, gamified lore, and crypto-native incentives into one evolving metaverse. It is built to bridge mainstream audiences into Web3 through the power of story, character, and gameplay. By combining it's IP character AI influencers, immersive lore, and gamified drops, this project invites:
 
 🎮 Gamers
 
@@ -18,7 +18,7 @@ Sentress Realm Studios™  doesn’t just use Sui — it helps showcase what’s
 
 ...into a hands-on experience of crypto culture, while actively promoting Sui-based tokens and demonstrating the creative possibilities of the Sui blockchain.
 
-The Sentress Realm doesn't just exist on Sui — it champions it.
+***The Sentress Realm*** doesn't just exist on Sui — ***it champions it.***
 
 
 ---
@@ -117,7 +117,7 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
   
 
 ---
-INSTRUCTIONS FOR VR PROTOTYPE DEMO: 
+***INSTRUCTIONS FOR VR PROTOTYPE DEMO:*** 
 
                           
                            
@@ -149,9 +149,15 @@ https://styly.cc/manual/experience-styly-in-vr/#Steps_to_experience_the_Scene_in
 ---
 
 ## ⚡ Built On
-- 🧠 Sui Blockchain
-- 🧠 AI-powered creation tools
-- 🎮 Game & NFT integration (in progress)
+- Sui Blockchain
+- AI-powered creation tools: RUNWY,ELEVENLABS,Riffusion,Sora
+- Mysten Labs SDK(sui wallet), Move(tradeport NfTs)
+- Replit
+- Buildbox
+- Webflow
+- Blogger
+- YouTube
+
 
 ---
 
