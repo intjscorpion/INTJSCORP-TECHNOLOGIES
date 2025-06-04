@@ -161,5 +161,5 @@ https://styly.cc/manual/experience-styly-in-vr/#Steps_to_experience_the_Scene_in
 
 ---
 
-**INTJSCORP TECHNOLOGIES™ and it's subdivision, Sentress Realm Studios™ ** is built for the RARE thinkers, dreamers, seekers ,for those of us who go undervalued and labeled as "boring" cause we are quiet introverts whose idea of "fun" is NOT partying and getting drunk.... and for the Sui community — the journey has only just begun.
+**INTJSCORP TECHNOLOGIES™ and it's subdivision, ***Sentress Realm Studios™*** is built for the ***RARE*** thinkers, dreamers, seekers ,for those of us who go undervalued and labeled as ***"boring"*** cause we are quiet ***introverts*** whose idea of "fun" is NOT partying and getting drunk.... and ***for the Sui community — the journey has only just begun.***
 
