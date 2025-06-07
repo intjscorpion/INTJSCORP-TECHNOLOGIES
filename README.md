@@ -139,8 +139,9 @@ https://styly.cc/manual/experience-styly-in-vr/#Steps_to_experience_the_Scene_in
 ## 🔗 Links
 
 - 🌐 Website: www.intjscorptechnologies.xyz
-- 🧠 Twitter: https://x.com/i/communities/1909698927122911563
+- MUSIC NFT PLAYLIST: https://youtube.com/playlist?list=PLnVKwDpBgYDfcLe_P6mUM4EoWN_QhiHxl&si=fgSGqBQW1OIwSh7J
 - 📺 YouTube: https://youtube.com/@suisentresscryptorealm?si=3S2qAJ5DjlAG1Nuc
+- 🧠 Twitter: https://x.com/i/communities/1909698927122911563
 - 💬 Discord: IntjScorpion
 - 🧬 Token Info: $INTJSCORP 
                   CA:0xf4924b2096a1b866b1287b5346a424fb898968530fecafe94a9792865fdea8c9::intjscorp::INTJSCORP
