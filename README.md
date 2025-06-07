@@ -117,6 +117,9 @@ An entertainment hub that will inspire culture> February 21st, 2025✔️
   
 
 ---
+***👉 Judges: Please explore the VR, MUSIC NFTs, and game demo link — all connected. This project exists to draw people into the world of Sui.***
+
+
 ***INSTRUCTIONS FOR VR PROTOTYPE DEMO:*** 
 
                           
